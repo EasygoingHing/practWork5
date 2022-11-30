@@ -1,0 +1,32 @@
+D:\Колледж\Рпм\Работы 3 курс\WpfApp5\bin\Debug\WpfApp5.exe.config
+D:\Колледж\Рпм\Работы 3 курс\WpfApp5\bin\Debug\WpfApp5.exe
+D:\Колледж\Рпм\Работы 3 курс\WpfApp5\bin\Debug\WpfApp5.pdb
+D:\Колледж\Рпм\Работы 3 курс\WpfApp5\obj\Debug\WpfApp5.csproj.AssemblyReference.cache
+D:\Колледж\Рпм\Работы 3 курс\WpfApp5\obj\Debug\WpfApp5.csproj.SuggestedBindingRedirects.cache
+D:\Колледж\Рпм\Работы 3 курс\WpfApp5\obj\Debug\MainWindow.g.cs
+D:\Колледж\Рпм\Работы 3 курс\WpfApp5\obj\Debug\App.g.cs
+D:\Колледж\Рпм\Работы 3 курс\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.cache
+D:\Колледж\Рпм\Работы 3 курс\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.lref
+D:\Колледж\Рпм\Работы 3 курс\WpfApp5\obj\Debug\MainWindow.baml
+D:\Колледж\Рпм\Работы 3 курс\WpfApp5\obj\Debug\WpfApp5.g.resources
+D:\Колледж\Рпм\Работы 3 курс\WpfApp5\obj\Debug\WpfApp5.Properties.Resources.resources
+D:\Колледж\Рпм\Работы 3 курс\WpfApp5\obj\Debug\WpfApp5.csproj.GenerateResource.cache
+D:\Колледж\Рпм\Работы 3 курс\WpfApp5\obj\Debug\WpfApp5.csproj.CoreCompileInputs.cache
+D:\Колледж\Рпм\Работы 3 курс\WpfApp5\obj\Debug\WpfApp5.exe
+D:\Колледж\Рпм\Работы 3 курс\WpfApp5\obj\Debug\WpfApp5.pdb
+D:\Колледж\Рпм\Работы 3 курс\Крутолапов Пр5\bin\Debug\WpfApp5.exe.config
+D:\Колледж\Рпм\Работы 3 курс\Крутолапов Пр5\bin\Debug\WpfApp5.exe
+D:\Колледж\Рпм\Работы 3 курс\Крутолапов Пр5\bin\Debug\WpfApp5.pdb
+D:\Колледж\Рпм\Работы 3 курс\Крутолапов Пр5\obj\Debug\WpfApp5.csproj.AssemblyReference.cache
+D:\Колледж\Рпм\Работы 3 курс\Крутолапов Пр5\obj\Debug\WpfApp5.csproj.SuggestedBindingRedirects.cache
+D:\Колледж\Рпм\Работы 3 курс\Крутолапов Пр5\obj\Debug\MainWindow.g.cs
+D:\Колледж\Рпм\Работы 3 курс\Крутолапов Пр5\obj\Debug\App.g.cs
+D:\Колледж\Рпм\Работы 3 курс\Крутолапов Пр5\obj\Debug\WpfApp5_MarkupCompile.cache
+D:\Колледж\Рпм\Работы 3 курс\Крутолапов Пр5\obj\Debug\WpfApp5_MarkupCompile.lref
+D:\Колледж\Рпм\Работы 3 курс\Крутолапов Пр5\obj\Debug\MainWindow.baml
+D:\Колледж\Рпм\Работы 3 курс\Крутолапов Пр5\obj\Debug\WpfApp5.g.resources
+D:\Колледж\Рпм\Работы 3 курс\Крутолапов Пр5\obj\Debug\WpfApp5.Properties.Resources.resources
+D:\Колледж\Рпм\Работы 3 курс\Крутолапов Пр5\obj\Debug\WpfApp5.csproj.GenerateResource.cache
+D:\Колледж\Рпм\Работы 3 курс\Крутолапов Пр5\obj\Debug\WpfApp5.csproj.CoreCompileInputs.cache
+D:\Колледж\Рпм\Работы 3 курс\Крутолапов Пр5\obj\Debug\WpfApp5.exe
+D:\Колледж\Рпм\Работы 3 курс\Крутолапов Пр5\obj\Debug\WpfApp5.pdb
